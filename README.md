@@ -1,5 +1,9 @@
+-------------------------
 Proyecto: EEG-Analysis-AI
 -------------------------
+
+![PortadaIA](https://github.com/user-attachments/assets/eb63ed36-2550-4f9f-9856-6042d8437e12)
+
 
 **Descripción:**
 Este proyecto es una plataforma modular y escalable para el análisis de señales EEG mediante técnicas de Inteligencia Artificial.  
