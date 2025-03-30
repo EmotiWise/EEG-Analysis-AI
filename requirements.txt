@@ -1,0 +1,24 @@
+# Librerías básicas de cálculo y manipulación de datos
+numpy>=1.18.5
+pandas>=1.1.5
+
+# Visualización de datos
+matplotlib>=3.3.4
+seaborn>=0.11.1
+
+# Procesamiento de señales y datos científicos
+scipy>=1.5.4
+
+# Machine Learning
+scikit-learn>=0.24.2
+
+# Deep Learning con PyTorch
+torch>=1.8.0
+torchvision>=0.9.0
+
+# (Opcional) MNE para análisis avanzado de EEG
+mne>=0.24.0
+
+# (Opcional) Herramientas interactivas y notebooks
+jupyter>=1.0.0
+jupyterlab>=3.0.0
